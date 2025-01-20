@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 <!-- 💫 About Me:
 Something<br> -->
-## 🌐 Socials:
+🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TandalaM) 
 
 # 💻 Tech Stack:
